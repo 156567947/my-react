@@ -23,5 +23,5 @@ const element2 = (
     <span>666</span>
   </div>
 )
-render(element2,container)
+render(element,container)
 console.log(element2)
